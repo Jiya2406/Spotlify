@@ -2,7 +2,7 @@
 
 Spotlify is a responsive music streaming web application inspired by modern music platforms. It is built using ReactJS and TailwindCSS, focusing on clean UI, smooth navigation, and an engaging user experience.
 
-🚀 Features
+## Features
 
 🎧 Browse albums and playlists with dynamic routing
 
@@ -14,7 +14,7 @@ Spotlify is a responsive music streaming web application inspired by modern musi
 
 🧩 Reusable React components for scalability and maintainability
 
-🛠️ Tech Stack
+## Tech Stack
 
 Frontend: ReactJS
 
@@ -24,7 +24,7 @@ Routing: React Router
 
 Build Tool: Vite / Create React App (based on your setup)
 
-📂 Project Structure
+## Project Structure
 spotlify/
 │── src/
 │   ├── assets/        # Images, icons, static data
@@ -38,7 +38,15 @@ spotlify/
 │── tailwind.config.js
 │── README.md
 
-⚙️ Installation & Setup
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Home.png)
+
+### Album Page
+![Album Page](screenshots/Album.png)
+
+## Installation & Setup
 
 Clone the repository
 
@@ -63,3 +71,5 @@ npm run dev
 The application will run on:
 
 http://localhost:5173
+
+
