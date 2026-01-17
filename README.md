@@ -41,10 +41,11 @@ spotlify/
 ## Screenshots
 
 ### Home Page
-![Home Page](screenshots/Home.png)
+![Home Page](Output Screenshots/Home.png)
+
 
 ### Album Page
-![Album Page](screenshots/Album.png)
+![Album Page](Output Screenshots/Album.png)
 
 ## Installation & Setup
 
