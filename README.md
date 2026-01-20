@@ -4,40 +4,19 @@ Spotlify is a responsive music streaming web application inspired by modern musi
 
 ## Features
 
-🎧 Browse albums and playlists with dynamic routing
-
-📱 Fully responsive design for desktop, tablet, and mobile devices
-
-⚡ Fast and smooth navigation using React Router
-
-🎨 Modern and minimal UI built with TailwindCSS
-
-🧩 Reusable React components for scalability and maintainability
+- Browse albums and playlists using dynamic routing
+- Fully responsive design for desktop, tablet, and mobile devices
+- Smooth navigation using React Router
+- Modern and minimal UI built with TailwindCSS
+- Reusable React components for scalability and maintainability
 
 ## Tech Stack
 
-Frontend: ReactJS
-
-Styling: TailwindCSS
-
-Routing: React Router
-
-Build Tool: Vite / Create React App (based on your setup)
-
-## Project Structure
-spotlify/
-│── src/
-│   ├── assets/        # Images, icons, static data
-│   ├── components/    # Reusable UI components (Navbar, Cards, etc.)
-│   ├── pages/         # Album, Playlist, Home pages
-│   ├── App.jsx        # Main application component
-│   └── main.jsx       # Entry point
-│
-│── public/
-│── package.json
-│── tailwind.config.js
-│── README.md
-
+- Frontend: ReactJS
+- Styling: TailwindCSS
+- Routing: React Router
+- Build Tool: Vite
+- 
 ## Screenshots
 
 ### Home Page
@@ -47,30 +26,22 @@ spotlify/
 ### Album Page
 ![Album Page](Screenshots/Album.png)
 
-## Installation & Setup
+## Installation and Setup
 
-Clone the repository
+1. Clone the repository  
+   git clone https://github.com/your-username/spotlify.git
 
-git clone https://github.com/your-username/spotlify.git
+2. Navigate to the project directory  
+   cd spotlify
 
+3. Install project dependencies  
+   npm install
 
-Navigate to the project directory
+4. Run the development server  
+   npm run dev
 
-cd spotlify
+5. Open the application in the browser  
+   http://localhost:5173
 
-
-Install dependencies
-
-npm install
-
-
-Run the development server
-
-npm run dev
-
-
-The application will run on:
-
-http://localhost:5173
 
 
