@@ -16,7 +16,7 @@ Spotlify is a responsive music streaming web application inspired by modern musi
 - Styling: TailwindCSS
 - Routing: React Router
 - Build Tool: Vite
-- 
+  
 ## Screenshots
 
 ### Home Page
@@ -29,7 +29,7 @@ Spotlify is a responsive music streaming web application inspired by modern musi
 ## Installation and Setup
 
 1. Clone the repository  
-   git clone https://github.com/your-username/spotlify.git
+   git clone https://github.com/Jiya2406/Spotlify.git
 
 2. Navigate to the project directory  
    cd spotlify
